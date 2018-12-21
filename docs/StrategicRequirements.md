@@ -5,8 +5,8 @@ European Cloud Initiative Communication
 ---------------------------------------
 
 On the 19^th^ April 2016, the European Commission published a
-communication on the "European Cloud Initiative - Building a competitive
-data and knowledge economy in Europe"[^1]. This document outlined the
+communication on the “European Cloud Initiative - Building a competitive
+data and knowledge economy in Europe”[^1]. This document outlined the
 vision of the European Open Science Cloud as:
 
 The European Open Science Cloud aims to give Europe a global lead in
@@ -26,11 +26,11 @@ application.
 The Communication gives the following requirement for the EOSC
 Governance structure:
 
-"Create **a fit-for-purpose pan-European governance structure** to
+“Create **a fit-for-purpose pan-European governance structure** to
 federate scientific data infrastructures and overcome fragmentation**.**
 The institutional set-up will oversee long-term funding, sustainability,
 data preservation and stewardship. It will build on existing structures
-to involve scientific users, research funders and implementers".
+to involve scientific users, research funders and implementers”.
 
 First HLEG Report
 -----------------
@@ -45,7 +45,7 @@ recommendations on governance are as follows:
 1.  **Aim at the lightest possible, internationally effective
     governance**. Given the urgency and the number and variety of
     stakeholders and participants required to realise the EOSC, a
-    tightly governed, new infrastructure built \'somewhere\' is not the
+    tightly governed, new infrastructure built 'somewhere' is not the
     right model for the EOSC to be a success. Instead a more inclusive,
     flexible, transparent and less centralised approach is required, one
     that also enables effective global collaboration. The Commission
@@ -54,16 +54,16 @@ recommendations on governance are as follows:
 
 2.  **Guidance only where guidance is due**. While we advocate
     lightweight governance, we need a degree of regulation. For
-    instance, the harmonisation of the current \'standards jungle\'
-    needs to be actively coordinated. With no regulation, some major
-    players, public and private, may claim an unjust and
-    counterproductive share in the EOSC. The EOSC will have a myriad of
-    small and very large players, as is the case in the current
-    internet, but it should be perceived by regulators and stockholders
-    alike as a "commons" where citizens, researchers and innovators need
-    to use each other\'s data and tools in a trusted affordable and
-    sustainable environment. Europe should take a lead in this due
-    guidance element of the Internet of FAIR Data and Services.
+    instance, the harmonisation of the current 'standards jungle' needs
+    to be actively coordinated. With no regulation, some major players,
+    public and private, may claim an unjust and counterproductive share
+    in the EOSC. The EOSC will have a myriad of small and very large
+    players, as is the case in the current internet, but it should be
+    perceived by regulators and stockholders alike as a “commons” where
+    citizens, researchers and innovators need to use each other's data
+    and tools in a trusted affordable and sustainable environment.
+    Europe should take a lead in this due guidance element of the
+    Internet of FAIR Data and Services.
 
 3.  **Define Principles of Engagement**[^3] **for service provision in
     the EOSC.** To support wide participation, innovation and
@@ -97,9 +97,9 @@ recommendations on governance are as follows:
 Open Science Policy Platform
 ----------------------------
 
-In May 2017, the Open Science Policy Platform[^4] adopted a "Report on
+In May 2017, the Open Science Policy Platform[^4] adopted a “Report on
 the governance and financial schemes for the European Open Science
-Cloud" from its working group on the EOSC[^5]. This report was submitted
+Cloud” from its working group on the EOSC[^5]. This report was submitted
 to the EU Competitiveness Council. It recommends that:
 
 1.  The EOSC should rely on a multi-level and multi-stakeholder
@@ -190,15 +190,13 @@ Governance and Funding[^6]. The key principles for governance are:
 EC Staff Working Document
 -------------------------
 
-The European Commission's staff working document **\"Implementation
-Roadmap for the European Open Science Cloud\"**[^7] outlines an interim
+The European Commission’s staff working document **"Implementation
+Roadmap for the European Open Science Cloud"**[^7] outlines an interim
 governance structure for the initial implementation phase of the EOSC.
 It is envisaged that this can transition to the framework described in
 the deliverable
 
-![SWD
-Governance](./StrategicRequirements/media/image1.png){width="4.066666666666666in"
-height="2.9182622484689413in"}
+<img src="./StrategicRequirements/media/image1.png" alt="SWD Governance" style="width:4.06667in;height:2.91826in" />
 
 Figure 4 - Staff Working Document Governance Structure
 
@@ -223,153 +221,113 @@ Engagement Governance; SWD working groups are part of the Executive
 (created and governed by Executive; populated by executive from the
 stakeholder forum)
 
-+-----------------------+-----------------------+-----------------------+
-| ** **                 | **EOSCpilot DGF**     | **EC SWD**            |
-+=======================+=======================+=======================+
-| **INSTITUTIONAL**     | Name: Strategic       | Name: EOSC Board      |
-+-----------------------+-----------------------+-----------------------+
-|                       | Members: MS + EC      | Members: MS + EC (DG  |
-|                       |                       | RTD and DG CNECT)     |
-+-----------------------+-----------------------+-----------------------+
-|                       | Function:             | Function:             |
-|                       |                       |                       |
-|                       | -   defines strategic | -   ensures effective |
-|                       |     objectives        |     supervision of    |
-|                       |                       |     the               |
-|                       | -   measure the       |     implementation    |
-|                       |     impact and        |                       |
-|                       |     effectiveness of  | -   decides strategic |
-|                       |     EOSC              |     orientation of    |
-|                       |                       |     EOSC and          |
-|                       |                       |     commitment and    |
-|                       |                       |     financial support |
-|                       |                       |                       |
-|                       |                       | -   institutional and |
-|                       |                       |     political         |
-|                       |                       |     oversight         |
-|                       |                       |                       |
-|                       |                       | -   approves members  |
-|                       |                       |     of Executive      |
-|                       |                       |     Board             |
-|                       |                       |                       |
-|                       |                       | -   approves annual   |
-|                       |                       |     workplan          |
-|                       |                       |                       |
-|                       |                       | -   assesses progress |
-|                       |                       |     of EOSC           |
-|                       |                       |     implementation    |
-|                       |                       |                       |
-|                       |                       | -   coordinates with  |
-|                       |                       |     other MS/EC       |
-|                       |                       |     initiatives       |
-+-----------------------+-----------------------+-----------------------+
-| **EXECUTIVE**         | Name: Executive       | Name: Executive Board |
-|                       |                       | (+ Coordination       |
-|                       |                       | Structure?)           |
-+-----------------------+-----------------------+-----------------------+
-|                       | Members: not clear    | Members: max. 10      |
-|                       |                       | chosen by the EOSC    |
-|                       |                       | Board from ESFRI      |
-|                       |                       | infras, eInfras,      |
-|                       |                       | scientific            |
-|                       |                       | organisations,        |
-|                       |                       | university            |
-|                       |                       | associations etc.     |
-+-----------------------+-----------------------+-----------------------+
-|                       | Function:             | Function:             |
-|                       |                       |                       |
-|                       | -   ensures EOSC      | -   ensures proper    |
-|                       |     delivers to meet  |     implementation    |
-|                       |     the needs of the  |     and               |
-|                       |     Stakeholders      |     accountability    |
-|                       |                       |                       |
-|                       |                       | -   proposes the      |
-|                       |                       |     strategy &        |
-|                       |                       |     workplan          |
-|                       |                       |                       |
-|                       |                       | -   drafts the Rules  |
-|                       |                       |     of Participation  |
-|                       |                       |                       |
-|                       |                       | -   oversees and      |
-|                       |                       |     steer the         |
-|                       |                       |     implementation of |
-|                       |                       |     the workplan      |
-|                       |                       |     together with the |
-|                       |                       |     working groups    |
-|                       |                       |     (WGs)             |
-|                       |                       |                       |
-|                       |                       | -   monitors the      |
-|                       |                       |     implementation of |
-|                       |                       |     EOSC (by 2020)    |
-|                       |                       |                       |
-|                       |                       | -   proposes how      |
-|                       |                       |     broaden user base |
-|                       |                       |     to public sector  |
-|                       |                       |     and industry      |
-+-----------------------+-----------------------+-----------------------+
-| **ADVISORY**          | Name: Steering (incl. | Name: Advisory        |
-|                       | Stakeholder Forum)    | (Stakeholder Forum)   |
-+-----------------------+-----------------------+-----------------------+
-|                       | Members: individuals  | Members: broad        |
-|                       | including             | participation by      |
-|                       | organisations\\instit | organisations\\instit |
-|                       | utional               | utions\\communities   |
-|                       | representatives;      | (possibly decided by  |
-|                       | multiple subforums    | EOSC Board), single   |
-|                       | (consumers, providers | representative per    |
-|                       | etc.)                 | organisation\\institu |
-|                       |                       | tion\\community       |
-|                       |                       | -- requires adherence |
-|                       |                       | to the principles of  |
-|                       |                       | EOSC                  |
-+-----------------------+-----------------------+-----------------------+
-|                       | Function:             | Function:             |
-|                       |                       |                       |
-|                       | -   Recommends\\propo | -   Intelligence      |
-|                       | ses                   |     gathering and     |
-|                       |     within            |     Consultative role |
-|                       |     communities best  |                       |
-|                       |     practices,        | -   Expertise but no  |
-|                       |     standards,        |     decision-making   |
-|                       |     principles of     |     body              |
-|                       |     engagement        |                       |
-|                       |                       |                       |
-|                       | -   Recommends\\propo |                       |
-|                       | ses                   |                       |
-|                       |     "Rules of         |                       |
-|                       |     Engagement for    |                       |
-|                       |     service provision |                       |
-|                       |     in the EOSC" from |                       |
-|                       |     HLEG group report |                       |
-|                       |                       |                       |
-|                       | -   Recommends\\propo |                       |
-|                       | ses                   |                       |
-|                       |     scientific and    |                       |
-|                       |     technical         |                       |
-|                       |     requirements of   |                       |
-|                       |     the EOSC          |                       |
-+-----------------------+-----------------------+-----------------------+
+<table>
+<thead>
+<tr class="header">
+<th><strong> </strong></th>
+<th><strong>EOSCpilot DGF</strong></th>
+<th><strong>EC SWD</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>INSTITUTIONAL</strong></td>
+<td>Name: Strategic</td>
+<td>Name: EOSC Board</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Members: MS + EC</td>
+<td>Members: MS + EC (DG RTD and DG CNECT)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Function:</p>
+<ul>
+<li><p>defines strategic objectives</p></li>
+<li><p>measure the impact and effectiveness of EOSC</p></li>
+</ul></td>
+<td><p>Function:</p>
+<ul>
+<li><p>ensures effective supervision of the implementation</p></li>
+<li><p>decides strategic orientation of EOSC and commitment and financial support</p></li>
+<li><p>institutional and political oversight</p></li>
+<li><p>approves members of Executive Board</p></li>
+<li><p>approves annual workplan</p></li>
+<li><p>assesses progress of EOSC implementation</p></li>
+<li><p>coordinates with other MS/EC initiatives</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>EXECUTIVE</strong></td>
+<td>Name: Executive</td>
+<td>Name: Executive Board (+ Coordination Structure?)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Members: not clear</td>
+<td>Members: max. 10 chosen by the EOSC Board from ESFRI infras, eInfras, scientific organisations, university associations etc.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Function:</p>
+<ul>
+<li><p>ensures EOSC delivers to meet the needs of the Stakeholders</p></li>
+</ul></td>
+<td><p>Function:</p>
+<ul>
+<li><p>ensures proper implementation and accountability</p></li>
+<li><p>proposes the strategy &amp; workplan</p></li>
+<li><p>drafts the Rules of Participation</p></li>
+<li><p>oversees and steer the implementation of the workplan together with the working groups (WGs)</p></li>
+<li><p>monitors the implementation of EOSC (by 2020)</p></li>
+<li><p>proposes how broaden user base to public sector and industry</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><strong>ADVISORY</strong></td>
+<td>Name: Steering (incl. Stakeholder Forum)</td>
+<td>Name: Advisory (Stakeholder Forum)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Members: individuals including organisations\institutional representatives; multiple subforums (consumers, providers etc.)</td>
+<td>Members: broad participation by organisations\institutions\communities (possibly decided by EOSC Board), single representative per organisation\institution\community – requires adherence to the principles of EOSC</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Function:</p>
+<ul>
+<li><p>Recommends\proposes within communities best practices, standards, principles of engagement</p></li>
+<li><p>Recommends\proposes “Rules of Engagement for service provision in the EOSC” from HLEG group report</p></li>
+<li><p>Recommends\proposes scientific and technical requirements of the EOSC</p></li>
+</ul></td>
+<td><p>Function:</p>
+<ul>
+<li><p>Intelligence gathering and Consultative role</p></li>
+<li><p>Expertise but no decision-making body</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 Table 1 - Governance Crosswalk
 
 Despite the differences, there is a clear evolutionary path between the
 two models, with the Stakeholder Forum taking a stronger role in
 determining the direction of EOSC to ensure that it that it meets its
-users' needs, and in particular taking over the running of working
+users’ needs, and in particular taking over the running of working
 groups, whilst the Executive adopts a more operational and delivery
 role.
 
-![](./StrategicRequirements/media/image2.png){width="6.593209755030621in"
-height="3.316666666666667in"}
+<img src="./StrategicRequirements/media/image2.png" style="width:6.59321in;height:3.31667in" />
 
 Figure 5 - Governance Transition
 
 In addition, the coordinating structure would evolve into a delivery
 model for EOSC resources and services.
 
-![Delivery Model
-Crosswalk](./StrategicRequirements/media/image3.png){width="6.69375in"
-height="3.8208333333333333in"}
+<img src="./StrategicRequirements/media/image3.png" alt="Delivery Model Crosswalk" style="width:6.69375in;height:3.82083in" />
 
 Figure 6 - Delivery Transition
 
@@ -380,8 +338,7 @@ The report of the Second High Level Expert Group on the Open Science
 Cloud (Prompting an EOSC in Practice)[^8], supports the SWD governance
 model for the initial implementation of the EOSC as outlined below:
 
-![](./StrategicRequirements/media/image4.emf){width="6.69375in"
-height="2.9993055555555554in"}
+<embed src="./StrategicRequirements/media/image4.emf" style="width:6.69375in;height:2.99931in" />
 
 Figure 7 - 2nd HLEG Governance Overview
 
@@ -389,8 +346,8 @@ Figure 7 - 2nd HLEG Governance Overview
 
 [^2]: https://ec.europa.eu/research/openscience/pdf/realising\_the\_european\_open\_science\_cloud\_2016.pdf
 
-[^3]: HLEG uses the expression "Rules of Engagement" but the EOSCpilot
-    has adopted the term "Principles of Engagement" (PoE) to avoid the
+[^3]: HLEG uses the expression “Rules of Engagement” but the EOSCpilot
+    has adopted the term “Principles of Engagement” (PoE) to avoid the
     military connotation of the former expression.
 
 [^4]: https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform
@@ -399,6 +356,6 @@ Figure 7 - 2nd HLEG Governance Overview
 
 [^6]: https://ec.europa.eu/research/openscience/pdf/eosc\_declaration.pdf
 
-[^7]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin\...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+[^7]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 
 [^8]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
