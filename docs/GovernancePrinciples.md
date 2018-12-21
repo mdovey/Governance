@@ -1,3 +1,9 @@
+---
+title: Governance Principles
+menu: Governance Principles
+weight: 5
+---
+
 Governance Principles
 =====================
 
@@ -5,8 +11,8 @@ Governance Principles
 organization's purpose should be given the opportunity to comment and
 input into the development of decisions that affect them”*[^1]
 
-*Stakeholder Engagement: A Road Map to Meaningful Engagement – Cranfield
-School of Management*
+***Stakeholder Engagement: A Road Map to Meaningful Engagement –
+Cranfield School of Management***
 
 A key requirement in the strategic requirements listed in Section 2 is
 the need for the EOSC to be stakeholder driven. It should be “a
@@ -22,11 +28,11 @@ non-European” (HLEG Recommendations – Section 2.2), and following the
 analogies between the development of EOSC and the development of the
 Internet suggested in the HLEG report, it is also a requirement that:
 
-*No one person, organisation, or company governs the digital space* ...
+*“No one person, organisation, or company governs the digital space* ...
 Solutions to issues in each layer include policies, best practices,
 standards, specifications, and tools developed by the collaboration of
 stakeholders and experts from actors in business, governments, academia,
-technical, and civil society.[^2]
+technical, and civil society.”[^2]
 
 This is encapsulated in discussing the EOSC as a “Commons” – a
 management theory for natural resources that groups of people
@@ -34,7 +40,7 @@ management theory for natural resources that groups of people
 which through the work of Fuster Morell amongst others have been
 extended to Digital and Knowledge Commons[^3]:
 
-The **digital commons** are defined as *“an information and knowledge
+“\[The **digital commons** are defined as\] *information and knowledge
 resources that are collectively created and owned or shared between or
 among a community and that tend to be non-exclusive, that is, be
 (generally freely) available to third parties. Thus, they are oriented
@@ -48,11 +54,11 @@ research e-infrastructures and open science. The e-Infrastructure
 Reflection Group proposed an e-Infrastructure Commons in a 2013 white
 paper[^6], which proposes the need for:
 
-**Community building, high-level strategy and coordination in Europe:**
+**“Community building, high-level strategy and coordination in Europe:**
 for each type of e-Infrastructure service, a single coordinating
 organisation with a central role for user communities. These bodies, in
 turn, will need a forum for coordination between them across the
-different e-Infrastructure types.
+different e-Infrastructure types.”
 
 This would require strong stakeholder engagement to strengthen
 governance on the following levels:
@@ -177,3 +183,4 @@ Ostrom’s book “Governing the Commons”[^10]:
 [^9]: http://go.egi.eu/oscwp
 
 [^10]: http://www.cooperationcommons.com/Documents/EntryView?id=30
+

@@ -1,3 +1,9 @@
+---
+title: Governance Model
+menu: Governance Model
+weight: 7
+---
+
 Governance Model
 ================
 
@@ -112,3 +118,4 @@ report how effective they are.
 [^1]: http://www.rtmteam.net/page.php?pageID=25&section=overview\_of\_ecg
 
 [^2]: http://www.rtmteam.net/page.php?pageID=25&section=overview\_of\_ecg
+

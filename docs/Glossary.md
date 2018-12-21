@@ -1,4 +1,10 @@
-Glossary [glossary]
+---
+title: Glossary
+menu: Glossary
+weight: 10
+---
+
+Glossary
 ========
 
 | Term                                | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -26,3 +32,4 @@ Glossary [glossary]
 | VREs                                | Virtual Research Environments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | W3C                                 | World Wide Web Consortium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Working Committee\\Group            | A short term committee or group with a defined time limited term of reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
