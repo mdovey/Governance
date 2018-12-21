@@ -15,11 +15,10 @@ organisations or by citizens. To be effective, it considers three core
 community skills of *engaging citizens*, *measuring results*, and
 *getting things done* in order to help people and organisations make
 decisions about what actions to take in a community and to measure their
-impact and effectiveness.[^1] The interaction between these "skills" is
+impact and effectiveness.[^1] The interaction between these “skills” is
 shown in Figure 9.
 
-![](./GovernanceModel/media/image1.png){width="5.528520341207349in"
-height="2.2666666666666666in"}
+<img src="./GovernanceModel/media/image1.png" style="width:5.52852in;height:2.26667in" />
 
 Figure 13 - Effective Community Governance[^2]
 
@@ -27,13 +26,13 @@ These map very closely to the layers defined in the EOSC Declaration, of
 Institutional, Executive, and Advisory). In this model, the Advisory
 Layer from the declaration would involve the *engaging citizens* skills
 to determine the scientific and technical needs of the users. The term
-"Advisory" is meant, in this context, to concern engaging with all
+“Advisory” is meant, in this context, to concern engaging with all
 stakeholders. It is important that stakeholders are, and feel that they
 are, peers in the decision-making process. They should perform a role
 that is both advisory *and steering* - it should provide strong guidance
 and direction (not just advisory) to the Strategic and Executive layers.
 
-The declaration's Institutional layer would define the strategic
+The declaration’s Institutional layer would define the strategic
 objectives and measure the impact and effectiveness of EOSC against
 these objectives and so would principally map to the *Measuring Results*
 skill.
@@ -43,18 +42,16 @@ Things Done* skill by ensuring that the EOSC delivers to meet the needs
 of the stakeholders through the strategic objectives set by the
 Institutional layer. These layers are illustrated in Figure 10.
 
-![EOSC Governance
-Layers](./GovernanceModel/media/image2.png){width="5.833333333333333in"
-height="2.484126202974628in"}
+<img src="./GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:5.83333in;height:2.48413in" />
 
 Figure 14 - EOSC Governance Layers
 
 The intersections of these skills and layers are important in delivering
 an effective governance structure for EOSC. The **Stakeholder** layer
 determines within its communities best practice, standards, principles
-of engagement, in effect addressing the recommendations of "*Guidance
-only where guidance is due"* and "*Define Principles of Engagement^4^
-for service provision in the EOSC"* from the HLEG group report, as well
+of engagement, in effect addressing the recommendations of “*Guidance
+only where guidance is due”* and “*Define Principles of Engagement^4^
+for service provision in the EOSC”* from the HLEG group report, as well
 as the scientific and technical requirements of the EOSC. This forms a
 discussion and interaction with the **Strategic** layer, articulates the
 strategic objectives for the EOSC, and the metrics to measure how well
@@ -62,15 +59,13 @@ the EOSC delivers against these objectives. This leads to an interaction
 between the **Strategic** and **Executive** layers to determine how the
 EOSC is provisioned and commissioned to meet these objectives. Finally,
 there is be a feedback loop between the **Stakeholder** and
-**Executive** on how well the EOSC is meeting the communities' needs,
+**Executive** on how well the EOSC is meeting the communities’ needs,
 standards and practices, and a report back from the **Executive** to the
 **Strategic** layer on how effective the EOSC is meeting the strategy,
 and how effective the strategic goals are at capturing the real needs of
 the communities. This is outlined in Figure 11.
 
-![EOSC Community Governance
-Model](./GovernanceModel/media/image3.png){width="5.833333333333333in"
-height="5.336466535433071in"}
+<img src="./GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:5.83333in;height:5.33647in" />
 
 Figure 15 - Community Governance Model for EOSC
 
@@ -95,8 +90,7 @@ how well the EOSC is meeting their requirements at an operational level,
 and the **Executive** would report this against the strategic objective
 to the Strategic layer.
 
-![](./GovernanceModel/media/image4.png){width="6.6416754155730535in"
-height="4.467361111111111in"}
+<img src="./GovernanceModel/media/image4.png" style="width:6.64168in;height:4.46736in" />
 
 Figure 16 - Governance Decision Flow
 
