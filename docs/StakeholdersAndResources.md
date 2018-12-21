@@ -1,4 +1,10 @@
-StakeholderS and Resources
+---
+title: Stakeholders and Resources
+menu: Stakeholders and Resources
+weight: 6
+---
+
+Stakeholders and Resources
 ==========================
 
 Stakeholders
@@ -356,3 +362,4 @@ Figure 12 – Heavy Weight Executive Delivery Model
 </table>
 
 [^1]: http://www.rich2020.eu/tas\_calls/about
+

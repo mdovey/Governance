@@ -1,3 +1,9 @@
+---
+title: Executive Summary
+menu: Executive Summary
+weight: 2
+---
+
 Executive Summary
 =================
 
@@ -33,3 +39,4 @@ framework outlines:
     its interaction with the Executive.
 
 [^1]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+

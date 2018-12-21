@@ -1,3 +1,9 @@
+---
+title: Governance Structure
+menu: Governance Structure
+weight: 8
+---
+
 Governance Structure
 ====================
 
@@ -276,3 +282,4 @@ respectively:
 </table>
 
 Table 10 - Executive Governance Pillars
+

@@ -1,3 +1,9 @@
+---
+title: Strategic Requirements
+menu: Strategic Requirements
+weight: 4
+---
+
 Strategic Requirements 
 =======================
 
@@ -9,7 +15,7 @@ communication on the “European Cloud Initiative - Building a competitive
 data and knowledge economy in Europe”[^1]. This document outlined the
 vision of the European Open Science Cloud as:
 
-The European Open Science Cloud aims to give Europe a global lead in
+“The European Open Science Cloud aims to give Europe a global lead in
 scientific data infrastructures, to ensure that European scientists reap
 the full benefits of data-driven science. Practically, it will offer 1.7
 million European researchers and 70 million professionals in science and
@@ -21,7 +27,7 @@ advanced users and the largest producers of science in the world. The
 European Open Science Cloud will be also open for education and training
 purposes in higher education and, over time, to government and business
 users as the technologies developed will be promoted for wider
-application.
+application. “
 
 The Communication gives the following requirement for the EOSC
 Governance structure:
@@ -338,7 +344,7 @@ The report of the Second High Level Expert Group on the Open Science
 Cloud (Prompting an EOSC in Practice)[^8], supports the SWD governance
 model for the initial implementation of the EOSC as outlined below:
 
-<embed src="./StrategicRequirements/media/image4.emf" style="width:6.69375in;height:2.99931in" />
+<img src="./StrategicRequirements/media/image4.png" style="width:6.69375in;height:3in" />
 
 Figure 7 - 2nd HLEG Governance Overview
 
@@ -359,3 +365,4 @@ Figure 7 - 2nd HLEG Governance Overview
 [^7]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 
 [^8]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+

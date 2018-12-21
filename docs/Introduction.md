@@ -1,3 +1,9 @@
+---
+title: Introduction
+menu: Introduction
+weight: 3
+---
+
 Introduction
 ============
 
@@ -50,3 +56,4 @@ community. For that purpose the contents of the most up to date version
 can be found on github at:
 
 <https://github.com/EuropeanOpenScienceCloud/Governance>
+
